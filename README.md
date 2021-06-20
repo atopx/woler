@@ -4,7 +4,7 @@ Wake on LAN Library
 
 ## Install
 ```bash
-go get github/yanmengfei/woler
+go get github.com/yanmengfei/woler
 ```
 
 ## Use
